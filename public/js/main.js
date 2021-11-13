@@ -27,7 +27,7 @@ var floor = prerender('img/floor.bmp');
 floor.title = "floor";
 var players = prerender('img/player.png');
 players.title = "player";
-var smth = prerender('img/smth.jpg');
+var smth = prerender('img/smth.png');
 smth.title = "wall"
 var blank = document.createElement('canvas');
 
